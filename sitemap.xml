@@ -4,13 +4,23 @@
   
   
   <url>
-    <loc>https://algorithmicpattern.org/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://algorithmicpattern.org/</loc><lastmod>2022-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://algorithmicpattern.org/event/example/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://algorithmicpattern.org/post/22-08-04-update/</loc><lastmod>2022-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://algorithmicpattern.org/post/20-12-02-icml-best-paper/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://algorithmicpattern.org/event/collect/</loc><lastmod>2022-07-08T10:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://algorithmicpattern.org/post/20-12-01-wowchemy-prize/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://algorithmicpattern.org/event/smith/</loc><lastmod>2022-06-28T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://algorithmicpattern.org/event/sghp/</loc><lastmod>2022-06-20T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://algorithmicpattern.org/event/manjunath/</loc><lastmod>2022-06-14T10:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://algorithmicpattern.org/event/eglash/</loc><lastmod>2022-06-07T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://algorithmicpattern.org/event/noel/</loc><lastmod>2022-05-31T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://algorithmicpattern.org/event/devendorf/</loc><lastmod>2022-05-24T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://algorithmicpattern.org/publication-type/3/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -38,16 +48,14 @@
   <url>
     <loc>https://algorithmicpattern.org/people/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://algorithmicpattern.org/author/alex-mclean/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://algorithmicpattern.org/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://algorithmicpattern.org/post/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://algorithmicpattern.org/author/nelson-bighetti/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://algorithmicpattern.org/publication/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://algorithmicpattern.org/event/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://algorithmicpattern.org/tour/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://algorithmicpattern.org/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://algorithmicpattern.org/tour/</loc><lastmod>2022-04-28T11:57:11+01:00</lastmod><changefreq>weekly</changefreq></url></urlset>

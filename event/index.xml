@@ -13,17 +13,80 @@
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://algorithmicpattern.org/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://algorithmicpattern.org/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <title>Workshop: Patterns and Algorithmic Music</title>
+      <link>https://algorithmicpattern.org/event/collect/</link>
+      <pubDate>Fri, 08 Jul 2022 10:30:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/collect/</guid>
+      <description>&lt;p&gt;Algorithmic pattern can be described as the use of rules and well-defined instructions to produce and break symmetries, through combination and transformation operations. However, “pattern” is often used as a pejorative term. Transdisciplinary scholar Andrew Hugill notes that for some composers, being accused of pattern-making implies that you have nothing original to say and fall back on mechanical formulae. With this workshop, we aim to rescue the term from its somewhat deprecatory usage in a number of arts disciplines, and disentangle algorithms from any false sense of unfathomable obscurity or complexity. This workshop focuses on how to characterise and define produced pattern.&lt;/p&gt;
+&lt;p&gt;Participants will be invited to explore both the historical and contemporary use of algorithmic practices in pattern making. In a hands on session, we will be learning the practice of tablet weaving, where cards are twisted and flipped to make complex, three dimensional braiding patterns. We will approach this ancient practice from the perspective of live coders, using a web-based code interface to guide our real-world braids. Reflecting on this, the second part of the workshop will explore patterns in algorithmic music, and in audiovisual algorithmic art. Through this, we aim to gain deeper understanding of patterns in live coding practice, and discover ways in which we could take them further.&lt;/p&gt;
+&lt;p&gt;The workshop took place between connected hubs in Barcelona, Sheffield and Penryn, as part of &lt;a href=&#34;https://onthefly.space/read/on-the-fly-collect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on_the_fly_collect()&lt;/a&gt; festival. You can read a &lt;a href=&#34;https://thentrythis.org/notes/2022/07/09/digital-is-physical-remote-tablet-weaving-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog report on the tablet weaving&lt;/a&gt; by workshop leader Dave Griffiths.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bekah Smith: The mathematics of juggling &#39;siteswap&#39; patterns</title>
+      <link>https://algorithmicpattern.org/event/smith/</link>
+      <pubDate>Tue, 28 Jun 2022 16:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/smith/</guid>
+      <description>&lt;p&gt;Bekah Smith is a multi-disciplinary artist and educator specializing in juggling, unicycle and clown. Her work is highly centered around busking, &lt;a href=&#34;https://clownswithoutborders.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;humanitarian clowning&lt;/a&gt;, and teaching adults and children to juggle 3 balls for their first time. In 2013 she was the co-recipient of the Excellence in Education Award from the International Jugglers’ Association for contributions to youth circus programs in Boulder, Colorado and around the world. Bekah received her BS in Business from Kansas State University. She went on to study theater clown at the San Francisco Clown Conservatory and with Elizabeth Baron. As a current Master’s Student in Creative Technology and Design at CU Boulder’s ATLAS Institute, she researches new technologies for circus and performance art, interactive installations, play spaces, games, and toys.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sarah Groff Hennigh-Palermo: Live coding patterns</title>
+      <link>https://algorithmicpattern.org/event/sghp/</link>
+      <pubDate>Mon, 20 Jun 2022 16:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/sghp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://art.sarahghp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarah Groff Hennigh-Palermo&lt;/a&gt; is an artist, programmer, and erstwhile data designer. Her work focuses on using the digital in a manner that can transcend its squalid and militaristic roots and reach out towards the sublime. She has created data-obscured art sites, new computer languages, and hybrid nostalgia machines. Computer errors are her best friends.&lt;/p&gt;
+&lt;p&gt;Sarah is an alumna of the School for Poetic Computation, Recurse Center, Brown University, and NYU Tandon School of Engineering. In addition to a solo exhibition as part of Wallplay’s On Canal series, she has taken part in group shows at Sonar+D, Westbeth, Day for Night, Flux Factory, and Denver Supernova.&lt;/p&gt;
+&lt;p&gt;Previous talks by Sarah:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dorftv.at/video/36840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conversations with Computers&lt;/a&gt;: Day 2 — 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/496209833&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codie Presents&lt;/a&gt; — SIIDS 202)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/354276927&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undermining Computing&lt;/a&gt; — Eyeo 2019&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tteIQBPPxqc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kablooie: A History of Errors&lt;/a&gt; — JSConf EU 2018&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>B C Manjunath: Vocal patterns in Konnakol</title>
+      <link>https://algorithmicpattern.org/event/manjunath/</link>
+      <pubDate>Tue, 14 Jun 2022 10:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/manjunath/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCPHtgWk6UCtVU9je-GD9P1A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B C Manjunath&lt;/a&gt; is an award-winning and highly recognised composer, innovator, and discoverer of many unique rhythmic cycles such as Fibonacci Tala, Triangular Numbers Tala, Gurukrupa Tala and many more as yet unnamed Talas of his own. He is also a trained teacher conducting well received workshops worldwide. He has also performed at many highly prestigious venues including Theatre de la Ville, Paris, Queen Elizabeth Hall, London, Sydney Opera House, Sydney, Stanislavsky, Moscow, Bangalore Gayana Samaja, Chennai Music Academy, NCPA Mumbai, Onassis cultural centre, Athens, The Auditorium, Rome and Esplanade, Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The End of Innocence for Craft Grammars: why we need Decolonial Computing</title>
+      <link>https://algorithmicpattern.org/event/eglash/</link>
+      <pubDate>Tue, 07 Jun 2022 16:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/eglash/</guid>
+      <description>&lt;p&gt;Dr. Ron Eglash is a Professor in the School of Information at University of Michigan. He received his B.S. in Cybernetics, his M.S. in Systems Engineering, and his PhD in History of Consciousness, all from the University of California. His work includes the development of &lt;a href=&#34;https://csdt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethnocomputing&lt;/a&gt;, the &lt;a href=&#34;https://roneglash.org/eglash.dir/apptech.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technology appropriation framework&lt;/a&gt;, and &lt;a href=&#34;https://generativejustice.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generative justice&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Algorithm of Wire-Bending</title>
+      <link>https://algorithmicpattern.org/event/noel/</link>
+      <pubDate>Tue, 31 May 2022 16:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/noel/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yWC4p3XwMIo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vaanoel.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vernelle A. A. Noel&lt;/a&gt;, Ph.D. is a design scholar, architect, artist, and Director of the &lt;a href=&#34;https://sit-code.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Situated Computation + Design Lab&lt;/a&gt;. Currently an Assistant Professor of Architecture and Interactive Computing at Georgia Tech., she investigates traditional practices, digital practices, interdisciplinary creativity, and their intersections with society. She builds new frameworks, methodologies, expressions, and tools to explore social, cultural, and political aspects of computation and emerging technologies for new reconfigurations of practice, pedagogy, and publics. Her work has been supported by the Graham Foundation, the Mozilla Foundation, ideas2innovation, and others. She is a recipient of the &lt;a href=&#34;https://digitalfutures.international/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DigitalFUTURES Young Award&lt;/a&gt; for exceptional research and scholarship in the field of critical computational design. Dr. Noel has worked at the University of Stuttgart, the University of Florida, Penn State University, MIT, the Singapore University of Technology &amp;amp; Design, and has practiced as an architect in the US, India, and Trinidad &amp;amp; Tobago.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laura Devendorf: Weaving Algorithmic Patterns with AdaCAD</title>
+      <link>https://algorithmicpattern.org/event/devendorf/</link>
+      <pubDate>Tue, 24 May 2022 14:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/event/devendorf/</guid>
+      <description>&lt;p&gt;Laura Devendorf is an artist and researcher who questions relationships between technology and culture by playfully subverting and reinterpreting categorizations of “machine” and “body.” Her work presents alternative understandings of technology that draw heavily from feminist techno-science, trading notions of efficiency for engagement, control for humility, and individualism for cooperation and care. Her work takes the form of garments and tapestries with embedded electronics, open-source software, and mixed-media systems. Devendorf is an assistant professor in the ATLAS Institute and the Department of Information Science at the University of Colorado Boulder, where she directs the Unstable Design Lab, and holds a courtesy appointment in the Intermedia Arts Writing and Performance PhD Program. She received her PhD at the UC Berkeley School of Information.&lt;/p&gt;
 </description>
     </item>
     
